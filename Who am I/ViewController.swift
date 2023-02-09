@@ -65,4 +65,4 @@ struct Person{
     var description:String
     
 }
-var people = [Person(image:UIImage(named: "image1")!, name: "Lauryn Hill", description: ""), Person(image:UIImage(named: "")!, name: "", description: ""), Person(image:UIImage(named: "")!, name: "", description: ""), Person(image:UIImage(named: "")!, name: "", description: ""), Person(image:UIImage(named: "")!, name: "", description: "")]
+var people = [Person(image:UIImage(named: "image1")!, name: "Lauryn Hill", description: " African American singer, songwriter, rapper, and record producer."), Person(image:UIImage(named: "image2")!, name: "Destiny's Child", description: "American girl group whose final line-up comprised Beyoncé Knowles, Kelly Rowland, and Michelle Williams."), Person(image:UIImage(named: "image3")!, name: "Janet Jackson", description: " African American singer, songwriter, actress, and dancer."), Person(image:UIImage(named: "image4")!, name: "Louis Armstrong", description: "African American trumpeter and vocalist."), Person(image:UIImage(named: "image5")!, name: "Nat King Cole", description: "African American singer, jazz pianist, and actor.")]
